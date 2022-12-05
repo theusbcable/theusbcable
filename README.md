@@ -4,7 +4,7 @@
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theusbcable&label=Profile%20views&color=0e75b6&style=flat" alt="theusbcable" /> </p>
-
+<img src="[http://i.stack.imgur.com/SBv4T.gif](https://media.tenor.com/vmPDLS2tY40AAAAM/one-piece.gif)" alt="OP"  width="250" />
 - 🔭 I’m currently working on **Mobile Apps**
 
 - 🌱 I’m currently learning **Python and Java**
