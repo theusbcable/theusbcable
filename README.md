@@ -4,8 +4,9 @@
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theusbcable&label=Profile%20views&color=0e75b6&style=flat" alt="theusbcable" /> </p>
-<img src="[http://i.stack.imgur.com/SBv4T.gif]" alt="OP"  width="250" />
+
 - 🔭 I’m currently working on **Mobile Apps**
+![200w](https://user-images.githubusercontent.com/119694832/205708394-1006c7b0-e349-43ad-bfcb-cf2048cc28ed.gif)
 
 - 🌱 I’m currently learning **Python and Java**
 
@@ -18,6 +19,7 @@
 - 📫 How to reach me **theusbcable@gmail.com**
 
 - ⚡ Fun fact= **I am top .3% of players in Destiny 2 and I LOVE ONE PIECE**
+![one-piece](https://user-images.githubusercontent.com/119694832/205708355-3b470954-94e0-4d72-b81e-cd68d03cb8da.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
